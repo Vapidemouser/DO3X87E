@@ -15,4 +15,4 @@ Type: Pre-con Education
 Area of Interest: Application Development
 Audience Level: Advanced, Technical, Beginner, Intermediate
 
-This presentation and materials are [MIT Licensed Open Source](https://github.com/DevTestSolutions/DO3X87E/blob/master/LICENSE) - Feel free to make your own versions or Fork this Repository.
+This presentation and materials are [MIT Licensed Open Source](https://github.com/DevTestSolutions/DO3X87E/blob/master/LICENSE) - Feel free to [Fork this on github](https://github.com/DevTestSolutions/DO3X87E/fork).
