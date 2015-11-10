@@ -8,7 +8,7 @@
 
 ###Ever wanted to write your own API? Now's your opportunity to join the CA Virtual API community and build your own API. Once built you can use it and share it with the community to benefit other developers who are looking for the same functionality. This lively session will show you just how easy it is to build your custom API.
 
-###Participation Requirements:
+####Participation Requirements:
 GitHub Account - To join goto [GitHub] (https://github.com/join)
 Web Browser -  [Chrome](https://www.google.com/chrome/), Firefox [FireFox] (https://www.mozilla.org/en-US/firefox/new/) or IE 10+
 Network Connection - CA World Wifi available
