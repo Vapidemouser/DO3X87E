@@ -1,20 +1,20 @@
-FirstName,LastName,Phone,ZipCode,Level,ActiveDate,Rewards
-Olivia,Acosta,837-545-5226,28056,Premier,4/8/15,None
-Thaddeus,Wooten,149-743-0735,92281,Premier,8/9/15,Tax Free purchase
-Jemima,Fowler,853-550-7645,19928,Business,5/9/15,Tax Free purchase
-Akeem,Conley,885-710-7228,42629,Premier,3/21/15,None
-Halla,Hansen,861-762-3101,95179,Gold,2/24/15,None
-Shoshana,Padilla,450-229-8446,81272,Premier,10/11/15,Tax Free purchase
-Ifeoma,Peters,642-990-6474,78850,Business,12/26/14,15% Off One Reg Priced Item
-Kermit,Snyder,710-659-7132,25501,Gold,3/22/15,15% Off One Reg Priced Item
-Anastasia,Carson,491-519-8135,97388,Premier,6/3/15,None
-Mufutau,Pratt,976-653-3451,92621,Business,2/24/15,Tax Free purchase
-Aubrey,Robertson,696-386-4658,62218,Premier,2/18/15,15% Off One Reg Priced Item
-Porter,Stevens,591-827-1351,38383,Premier,8/21/15,Tax Free purchase
-Noelle,Michael,406-935-9295,71172,Premier,1/6/15,Tax Free purchase
-Carlos,Travis,749-176-8442,84838,Premier,12/22/14,None
-Garth,Harding,771-590-0258,64383,Premier,11/22/14,15% Off One Reg Priced Item
-Ahmed,Campos,886-775-7783,44861,Gold,12/24/14,Tax Free purchase
-Nola,Terry,151-384-4247,52869,Gold,7/3/15,None
-Jillian,Ballard,140-102-5179,26008,Business,5/23/15,15% Off One Reg Priced Item
-Gisela,Simpson,732-428-7420,26314,Premier,11/23/14,Tax Free purchase
+Customer_id,FirstName,LastName,Phone,ZipCode,Level,ActiveDate,Rewards
+35-996-385,Olivia,Acosta,837-545-5226,28056,Premier,4/8/15,None
+59-306-293,Thaddeus,Wooten,149-743-0735,92281,Premier,8/9/15,Tax Free purchase
+12-891-591,Jemima,Fowler,853-550-7645,19928,Business,5/9/15,Tax Free purchase
+85-909-020,Akeem,Conley,885-710-7228,42629,Premier,3/21/15,None
+31-782-745,Halla,Hansen,861-762-3101,95179,Gold,2/24/15,None
+12-889-918,Shoshana,Padilla,450-229-8446,81272,Premier,10/11/15,Tax Free purchase
+23-484-609,Ifeoma,Peters,642-990-6474,78850,Business,12/26/14,15% Off One Reg Priced Item
+60-810-958,Kermit,Snyder,710-659-7132,25501,Gold,3/22/15,15% Off One Reg Priced Item
+21-536-498,Anastasia,Carson,491-519-8135,97388,Premier,6/3/15,None
+48-174-158,Mufutau,Pratt,976-653-3451,92621,Business,2/24/15,Tax Free purchase
+24-042-190,Aubrey,Robertson,696-386-4658,62218,Premier,2/18/15,15% Off One Reg Priced Item
+45-168-901,Porter,Stevens,591-827-1351,38383,Premier,8/21/15,Tax Free purchase
+99-108-659,Noelle,Michael,406-935-9295,71172,Premier,1/6/15,Tax Free purchase
+96-355-944,Carlos,Travis,749-176-8442,84838,Premier,12/22/14,None
+68-152-799,Garth,Harding,771-590-0258,64383,Premier,11/22/14,15% Off One Reg Priced Item
+82-695-275,Ahmed,Campos,886-775-7783,44861,Gold,12/24/14,Tax Free purchase
+61-774-630,Nola,Terry,151-384-4247,52869,Gold,7/3/15,None
+15-849-432,Jillian,Ballard,140-102-5179,26008,Business,5/23/15,15% Off One Reg Priced Item
+39-100-720,Gisela,Simpson,732-428-7420,26314,Premier,11/23/14,Tax Free purchase
