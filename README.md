@@ -8,7 +8,7 @@
 ####Participation Requirements:
 1. GitHub Account - To join goto [GitHub] (https://github.com/join)
 2. Web Browser -  [Chrome](https://www.google.com/chrome/), Firefox [FireFox] (https://www.mozilla.org/en-US/firefox/new/) or IE 10+
-3. Network Connection - CA World Wifi available
+3. Network Connection - CA World WiFi available
 
 Content Area: DevOpsSession 
 Type: Pre-con Education
