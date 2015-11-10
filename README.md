@@ -13,9 +13,9 @@
 2. Web Browser -  [Chrome](https://www.google.com/chrome/), Firefox [FireFox] (https://www.mozilla.org/en-US/firefox/new/) or IE 10+
 3. Network Connection - CA World Wifi available
 
-..Content Area: DevOpsSession 
-..Type: Pre-con Education
-..Area of Interest: Application Development
+  *Content Area: DevOpsSession 
+  *Type: Pre-con Education
+  *Area of Interest: Application Development
 ..Audience Level: Advanced, Technical, Beginner, Intermediate
 ..Industries of Interest: Education, Energy, Financial Institutions/Banking/Insurance, Government, Healthcare/Pharmaceuticals, ..Manufacturing, Oil & Gas/Mining, Other, Service Provides/Alliance, Technology, Telecommunications, TransportationSession 
 
