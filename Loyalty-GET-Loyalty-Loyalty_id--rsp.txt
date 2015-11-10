@@ -1,0 +1,13 @@
+200
+
+[
+    {
+    "Loyalty_id": "{Loyalty_id}",    
+    "FirstName": "{{FirstName}}",
+    "LastName": "{{Last Name}}",
+    "Phone": "{{Phone}}",
+    "ZipCode": "{{ZipCode}}",
+    "Level": "{{Level}}",
+    "ActiveDate": "{{ActiveDate}}",
+    "Rewards": "{{Rewards}}"}
+    ]
