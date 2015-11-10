@@ -4,7 +4,7 @@
     {
     "Loyalty_id": "{Loyalty_id}",    
     "FirstName": "{{FirstName}}",
-    "LastName": "{{Last Name}}",
+    "LastName": "{{LastName}}",
     "Phone": "{{Phone}}",
     "ZipCode": "{{ZipCode}}",
     "Level": "{{Level}}",
