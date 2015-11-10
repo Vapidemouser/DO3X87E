@@ -1,0 +1,13 @@
+200
+
+[
+    {
+    "Loyalty_id": "{{=[:D*(2)-D*(3)-D*(3)]}}",    
+    "FirstName": "{{=[:First Name:]}}",
+    "LastName": "{{=[:Last Name:]}}",
+    "Phone": "{{=[::DDD-DDD-DDDD]}}",
+    "ZipCode": "{{=[:Zip Code:]}}",
+    "Level": "{{Level}}",
+    "ActiveDate": "{{=doDateDeltaFromRequest("MM-dd-yy","-20D");/*2014-01-01*/}}",
+    "Rewards": "{{Rewards}}"}
+    ]
