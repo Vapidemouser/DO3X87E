@@ -18,3 +18,5 @@ Type: Pre-con Education
 Area of Interest: Application Development
 Audience Level: Advanced, Technical, Beginner, Intermediate
 Industries of Interest: Education, Energy, Financial Institutions/Banking/Insurance, Government, Healthcare/Pharmaceuticals, Manufacturing, Oil & Gas/Mining, Other, Service Provides/Alliance, Technology, Telecommunications, TransportationSession 
+
+This presentation and materials are MIT Licensed Open Source - Feel free to make your own versions or [Fork] (https://github.com/DevTestSolutions/DO3X87E#fork-destination-box) this Repository.
