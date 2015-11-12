@@ -1,0 +1,9 @@
+200
+
+[{
+		"ISBN": "978-3-141-51885-9",
+		"Author": "Miranda, Aaron F.",
+		"Publisher": "Prentice Hall",
+		"Title": "Duis elementum",
+		"ReleaseDate": "2015-11-14T21:16:48-08:00"
+	}]
