@@ -4,7 +4,7 @@
 
 Log In and Goto The API Designer - work either the Loyalty or Book Search Example, or create from scratch
 
-#####Virtualize the API Design - Discuss making it Private while you work or why Pirvate may be desired
+#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
 
 *Call the API in Try It Now*
 
